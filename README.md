@@ -12,7 +12,7 @@ Currently only works for Mac OS X, but willing to accept pull-requests for Linux
 **Instructions**
 
 ```bash
-wget https://github.com/phayes/bin/blob/gh-pages/current/kunlock/mac/kunlock
+wget https://phayes.github.io/bin/current/kunlock/mac/kunlock
 chmod a+x kunlock
 ./kunlock
 ```
