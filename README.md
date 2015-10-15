@@ -9,7 +9,7 @@ This little utility will unlock your KOBO eReader and let you use it without reg
 
 Currently only works for Mac OS X, but willing to accept pull-requests for Linux and Windows. 
 
-*Instructions for use*
+**Instructions**
 
 ```bash
 wget https://github.com/phayes/bin/blob/gh-pages/current/kunlock/mac/kunlock
